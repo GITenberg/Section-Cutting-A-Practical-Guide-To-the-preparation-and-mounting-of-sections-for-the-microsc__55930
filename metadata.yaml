@@ -1,11 +1,16 @@
 _repo: Section-Cutting-A-Practical-Guide-To-the-preparation-and-mounting-of-sections-for-the-microsc__55930
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55930-h/images/cover.jpg
 creator:
   author:
     agent_name: Marsh, Sylvester
     gutenberg_agent_id: '48583'
     url: http://www.gutenberg.org/2009/agents/48583
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55930#Section-Cutting-A-Practical-Guide-To-the-preparation-and-mounting-of-sections-for-the-microsc_
 gutenberg_issued: '2017-11-10'
 gutenberg_type: Text
 identifiers:
